@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/">
+        <file>icon/rand.png</file>
+        <file>icon/add.png</file>
+        <file>icon/close.png</file>
+        <file>icon/collapse.png</file>
+        <file>icon/expandv2.0.png</file>
+        <file>icon/loop.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/next.png</file>
+        <file>icon/play.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/volume0.png</file>
+        <file>icon/volume1.png</file>
+        <file>icon/volume2.png</file>
+        <file>icon/volume3.png</file>
+    </qresource>
+</RCC>
